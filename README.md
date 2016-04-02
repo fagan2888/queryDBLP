@@ -1,3 +1,3 @@
 # queryDBLP
-a project by information retrieval course
-courtesy to Wang, D Zhao and Y Zhe
+A project by information retrieval course, 
+Courtesy to Wang, D Zhao and Y Zhe
